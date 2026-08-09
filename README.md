@@ -20,6 +20,7 @@ The system analyzes customer support tickets and determines:
 - Draft customer response
 
 The system retrieves relevant knowledge-base documents before sending the ticket context to the LLM.
+the app folder is contain  task 1 
 
 ### Task 2 — Account Health Brief
 
