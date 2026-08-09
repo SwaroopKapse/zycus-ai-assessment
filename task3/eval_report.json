@@ -1,0 +1,59 @@
+{
+  "timestamp": "2026-08-09T08:55:26.736916",
+  "task1": {
+    "tests": [
+      {
+        "ticket_id": "TKT-10000",
+        "score": 1.0,
+        "passed": true
+      },
+      {
+        "ticket_id": "TKT-10010",
+        "score": 1.0,
+        "passed": true
+      },
+      {
+        "ticket_id": "TKT-10020",
+        "score": 1.0,
+        "passed": true
+      },
+      {
+        "ticket_id": "TKT-10030",
+        "score": 1.0,
+        "passed": true
+      },
+      {
+        "ticket_id": "ADVERSARIAL-001",
+        "score": 1.0,
+        "passed": true
+      }
+    ],
+    "average_score": 1.0
+  },
+  "task2": {
+    "tests": [
+      {
+        "account_id": "ACC-3336",
+        "score": 1.0,
+        "passed": true
+      },
+      {
+        "account_id": "ACC-3033",
+        "score": 1.0,
+        "passed": true
+      },
+      {
+        "account_id": "ACC-7893",
+        "score": 1.0,
+        "passed": true
+      },
+      {
+        "account_id": "ADVERSARIAL-001",
+        "score": 1.0,
+        "passed": true
+      }
+    ],
+    "average_score": 1.0
+  },
+  "overall_score": 1.0
+}
