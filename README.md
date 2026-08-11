@@ -46,6 +46,8 @@ Current evaluation result:
 - Task 2: 100%
 - Overall: 100%
 
+###### LOOM WALKTHROUGH : https://www.loom.com/share/fb48af4d7f48445693b0cec78aa34c4f
+
 ## Project Structure
 
 ```text
@@ -127,3 +129,5 @@ Groq LLM API
 Retrieval-based knowledge search
 JSON data processing
 Knowledge-base document retrieval
+
+
